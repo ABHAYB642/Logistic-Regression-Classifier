@@ -1,1 +1,1 @@
-# Logistic-Regression-Classifier
+Logistic Regression Classifier with Artificial Generated Dataset
